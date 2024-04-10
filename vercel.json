@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://event.blockbuilder.in//$1"
+      "dest": "https://event.blockbuilder.in/$1"
  }
   ]
 }
